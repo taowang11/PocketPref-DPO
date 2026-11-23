@@ -1,0 +1,7 @@
+{
+  "num_samples": 5,
+  "batch_size": 5,
+  "seed": 20260831,
+  "device": "cuda:0",
+  "num_threads": 2
+}

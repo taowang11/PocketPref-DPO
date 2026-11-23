@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+weights/
+outputs/
+*.pt
+*.pth
+*.safetensors
+*.log
+
+!/ckpts/ft.pt
+!/ckpts/dpo/pocketpref-dpo.pt
+!/ckpts/atom_num_model.pt
+
+/data/pocketpref-dpo-train/
