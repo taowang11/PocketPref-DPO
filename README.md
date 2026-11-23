@@ -117,8 +117,3 @@ python build_preferences.py --manifest sites.json --output-dir outputs/my_pairs
 ```
 
 See [input format, scoring dependencies, and selection rules](data/preference_construction.md).
-
-## Acknowledgments
-
-[SeFMol paper](https://doi.org/10.1126/sciadv.ady9955) ·
-[SeFMol code](https://github.com/sii-pilab/SeFMol)

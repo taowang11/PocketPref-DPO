@@ -16,8 +16,10 @@ PocketPref-DPO can be run directly with the [Quick Start](../README.md#quick-sta
 | [`dpo/pocketpref-dpo.pt`](dpo/pocketpref-dpo.pt) | `e40e2f1ddad8b7e5340e4948cd7ff85105d9474b943a50d34661989c371ecf99` |
 | [`atom_num_model.pt`](atom_num_model.pt) | `e16256fc90b491bddb4f8eccf34cc1174623cf84e7702037802b80d759ba9099` |
 
-Base originates from [SeFMol](https://github.com/sii-pilab/SeFMol). Both
-diffusion checkpoints use this repository's inference export format.
+Base originates from SeFMol. Both diffusion checkpoints use this
+repository's inference export format.
+[SeFMol paper](https://doi.org/10.1126/sciadv.ady9955) ·
+[SeFMol code](https://github.com/sii-pilab/SeFMol)
 
 ## PAFlow atom-count predictor
 
